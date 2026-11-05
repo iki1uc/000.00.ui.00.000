@@ -53,7 +53,7 @@ evoMIND ist ein **Engine‑Modul** und darf nicht wie ein OUR‑Slot behandelt w
 LICENSE
 NO-USE LICENSE (NUL)
 Copyright (c) 2026 iki1uc
-
+discord wieimmer server und partner open  
 Alle Rechte vorbehalten.
 
 Es ist NICHT gestattet:
